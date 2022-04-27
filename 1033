@@ -1,14 +1,33 @@
 {
-    "attributes": [
-        {
-            "trait_type": "Apes of Space VX",
-            "value": "Unrevealed"
-        }
-    ],
-    "description": "The Sandbox Premium Partner. 6x6 ESTATE. Public mint: April 19th. Apes of Space VX is an NFT ticket that provides access for players to explore unique game experiences. Earn $SAND tokens and other exclusive rewards!",
-    "animation_url": "https://apesofspace.com/aos-vx-unrevealed.mp4",
-    "external_link": "https://apesofspace.com",
-    "image": "https://apesofspace.com/aos-vx-unrevealed.png",
-    "name": "Apes of Space VX #1033"
+  "name": "Apes of Space VX #1033",
+  "external_link": "https://apesofspace.com/",
+  "animation_url": "https://viewer-3d-apesofspace.herokuapp.com/1033",
+  "image": "https://apesofspace-storage.nyc3.digitaloceanspaces.com/models/1033/1033.png",
+  "description": "The Sandbox Premium Partner. 6x6 ESTATE. Apes of Space VX is an NFT ticket that provides access for players to explore unique game experiences. Earn $SAND tokens and other exclusive rewards!",
+  "attributes": [
+    {
+    "trait_type": "Generation",
+    "value": "Generation Two"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Collar"
+    },
+    {
+      "trait_type": "Foot",
+      "value": "Flip Flops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horns"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pandora Ape"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
     }
-    
+  ]
+}
